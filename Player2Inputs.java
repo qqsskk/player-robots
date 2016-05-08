@@ -2,7 +2,7 @@ package player;
 
 import static java.awt.event.KeyEvent.*;
 
-// G H I J K L M O P setas . = / \ 1 3 4 5 6
+// G H I J K L M O P setas . = / \ 1 3 4 5 6 shift
 public class Player2Inputs implements Inputs {
     @Override
     public int shoot1() {
@@ -111,7 +111,7 @@ public class Player2Inputs implements Inputs {
 
     @Override
     public int goForward() {
-        return VK_P;
+        return VK_SHIFT;
     }
 
     @Override
