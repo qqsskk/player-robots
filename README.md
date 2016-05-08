@@ -1,5 +1,5 @@
 # Player Robots
- Player 1 and 2 robots for robocode, developed to support Xbox360 Joystick using JoyToKey Windows application.
+ Player 1 and 2 robots for [robocode](http://robocode.sourceforge.net/), developed to support Xbox360 Joystick using JoyToKey Windows application. [See more in this video](https://youtu.be/0WgXNFsQ_Nc).
  
  This repository includes robot source codes, compiled jar to a straightforward import in robocode, and a configured JoyToKey to work with Xbox360 Joystick.
  
@@ -68,4 +68,4 @@ Keyboard keys, action and Xbox360 Joystick button used by player 2:
  * O: Shoot 2 energy with LB button;
  * P: Shoot 3 energy with RT button.
 
-Licensed over Apache 2. Please, let me know if you liked.
+Licensed over Apache 2. Please let me know if you liked.
