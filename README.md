@@ -3,6 +3,10 @@
  
  This repository includes robot source codes, compiled jar to a straightforward import in robocode, and a configured JoyToKey to work with Xbox360 Joystick.
  
+ To use this robot, unzip the file "JoyToKey_en.zip" and open "JoyToKey".
+ After, Plug your Xbox360 Joystick and press some keys. If JoyToJey doesn't answer appropriately, install the driver in this link https://www.microsoft.com/hardware/pt-br/d/xbox-360-controller-for-windows, then restart your computer.
+ Finally, open your robocode, import the two robots and start playing with JoyToKey opened.
+ 
  The following features are supported:
  
  * Robot body movements using POV and Left Stick;
