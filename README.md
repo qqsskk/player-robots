@@ -10,7 +10,34 @@
  * Gun movement
  * 
  
- Keyboard keys used by player 2: 
+Keyboard keys, action and Xbox360 Joystick button used by player 1: 
+
+ * A: Move left with Stick 1 or pad
+ * D: Move right with Stick 1 or pad
+ * Up arrow: Move body up with Stick 1 or pad
+ * Down arrow: Move body down with Stick 1 or pad
+ * 7: Move body left up diagonal with Stick 1
+ * 8: Move body right up diagonal with Stick 1
+ * 9: Move body left down diagonal with Stick 1
+ * 0: Move body right down diagonal with Stick 1
+ * V: Move gun left with Stick 2
+ * X: Move gun right with Stick 2
+ * Z: Move gun up with Stick 2
+ * C: Move gun down with Stick 2
+ * ,: Move body left up diagonal with Stick 2
+ * E: Move body right up diagonal with Stick 2
+ * R: Move body left down diagonal with Stick 2
+ * F: Move body right down diagonal with Stick 2
+ * N: Move body forward using A button
+ * B: Move body backward using B or LT button
+ * Q: Change movement mode using select or Y button
+ * 2: Firm gun in angle using start or X button
+ * T: Shoot 1 energy with RB button
+ * Y: Shoot 2 energy with LB button
+ * U: Shoot 3 energy with RT button
+
+Keyboard keys, action and Xbox360 Joystick button used by player 2: 
+
  * Left arrow: Move left with Stick 1 or pad
  * Right arrow: Move right with Stick 1 or pad
  * W: Move body up with Stick 1 or pad
@@ -27,6 +54,10 @@
  * .: Move body right up diagonal with Stick 2
  * /: Move body left down diagonal with Stick 2
  * =: Move body right down diagonal with Stick 2
- * W: Move body right down diagonal with Stick 2
  * shift: Move body forward using A button
- * L: Move body backward using B or LT button 
+ * L: Move body backward using B or LT button
+ * M: Change movement mode using select or Y button
+ * 1: Firm gun in angle using start or X button
+ * I: Shoot 1 energy with RB button
+ * O: Shoot 2 energy with LB button
+ * P: Shoot 3 energy with RT button
