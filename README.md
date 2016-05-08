@@ -6,28 +6,28 @@
  The following features are supported:
  
  * Robot body movements using pov and left stick;
- * Special movement mode pressing select button
- * Gun movement
+ * Special movement mode pressing select button;
+ * Gun movement using right stick;
  * 
  
 Keyboard keys, action and Xbox360 Joystick button used by player 1: 
 
- * A: Move left with Stick 1 or pad
- * D: Move right with Stick 1 or pad
- * Up arrow: Move body up with Stick 1 or pad
- * Down arrow: Move body down with Stick 1 or pad
- * 7: Move body left up diagonal with Stick 1
- * 8: Move body right up diagonal with Stick 1
- * 9: Move body left down diagonal with Stick 1
- * 0: Move body right down diagonal with Stick 1
- * V: Move gun left with Stick 2
- * X: Move gun right with Stick 2
- * Z: Move gun up with Stick 2
- * C: Move gun down with Stick 2
- * ,: Move body left up diagonal with Stick 2
- * E: Move body right up diagonal with Stick 2
- * R: Move body left down diagonal with Stick 2
- * F: Move body right down diagonal with Stick 2
+ * A: Move left with Left Stick or pad
+ * D: Move right with Left Stick or pad
+ * Up arrow: Move body up with Left Stick or pad
+ * Down arrow: Move body down with Left Stick or pad
+ * 7: Move body left up diagonal with Left Stick
+ * 8: Move body right up diagonal with Left Stick
+ * 9: Move body left down diagonal with Left Stick
+ * 0: Move body right down diagonal with Left Stick
+ * V: Move gun left with Right Stick
+ * X: Move gun right with Right Stick
+ * Z: Move gun up with Right Stick
+ * C: Move gun down with Right Stick
+ * ,: Move body left up diagonal with Right Stick
+ * E: Move body right up diagonal with Right Stick
+ * R: Move body left down diagonal with Right Stick
+ * F: Move body right down diagonal with Right Stick
  * N: Move body forward using A button
  * B: Move body backward using B or LT button
  * Q: Change movement mode using select or Y button
@@ -38,22 +38,22 @@ Keyboard keys, action and Xbox360 Joystick button used by player 1:
 
 Keyboard keys, action and Xbox360 Joystick button used by player 2: 
 
- * Left arrow: Move left with Stick 1 or pad
- * Right arrow: Move right with Stick 1 or pad
- * W: Move body up with Stick 1 or pad
- * S: Move body down with Stick 1 or pad
- * 3: Move body left up diagonal with Stick 1
- * 4: Move body right up diagonal with Stick 1
- * 5: Move body left down diagonal with Stick 1
- * 6: Move body right down diagonal with Stick 1
- * K: Move gun left with Stick 2
- * H: Move gun right with Stick 2
- * G: Move gun up with Stick 2
- * J: Move gun down with Stick 2
- * \: Move body left up diagonal with Stick 2
- * .: Move body right up diagonal with Stick 2
- * /: Move body left down diagonal with Stick 2
- * =: Move body right down diagonal with Stick 2
+ * Left arrow: Move left with Left Stick or pad
+ * Right arrow: Move right with Left Stick or pad
+ * W: Move body up with Left Stick or pad
+ * S: Move body down with Left Stick or pad
+ * 3: Move body left up diagonal with Left Stick
+ * 4: Move body right up diagonal with Left Stick
+ * 5: Move body left down diagonal with Left Stick
+ * 6: Move body right down diagonal with Left Stick
+ * K: Move gun left with Right Stick
+ * H: Move gun right with Right Stick
+ * G: Move gun up with Right Stick
+ * J: Move gun down with Right Stick
+ * \: Move body left up diagonal with Right Stick
+ * .: Move body right up diagonal with Right Stick
+ * /: Move body left down diagonal with Right Stick
+ * =: Move body right down diagonal with Right Stick
  * shift: Move body forward using A button
  * L: Move body backward using B or LT button
  * M: Change movement mode using select or Y button
