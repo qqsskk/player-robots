@@ -37,8 +37,8 @@ package player;
  *
  * @since 1.3.4
  */
-public class P1SimpleGunJoystick extends AbstractSimpleGunJoystick {
-	public P1SimpleGunJoystick() {
+public class P1Joystick extends AbstractSimpleGunJoystick {
+	public P1Joystick() {
 		super(new Player1Inputs());
 	}
 }
