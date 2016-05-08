@@ -68,4 +68,4 @@ Keyboard keys, action and Xbox360 Joystick button used by player 2:
  * O: Shoot 2 energy with LB button;
  * P: Shoot 3 energy with RT button.
 
-Licensed over Apache 2. Please, let me know if you liked.
+Licensed over Apache 2. Please let me know if you liked.
